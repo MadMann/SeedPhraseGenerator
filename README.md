@@ -1,2 +1,5 @@
-# SeedPhraseGenerator
-Seed Phrase Generator for create crypto wallets.
+#seedphrasegenerator
+# Read or Dead
+```
+1. write in golang.
+```
